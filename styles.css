@@ -215,7 +215,7 @@ footer {
 }
 
 a {
-  color: inherit; /* herda a cor do texto pai */
+  color: inherit; 
   text-decoration: none;
   transition: color 0.3s ease;
 }
